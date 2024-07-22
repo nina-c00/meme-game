@@ -21,6 +21,8 @@ Das Design des Spiels ist einfach und benutzerfreundlich, damit Spieler jeden Al
 Um das Spiel noch spannender zu machen, habe ich eine Zeitbegrenzung eingefügt. 
 So wird der Druck erhöht und die Spieler müssen schneller denken und reagieren.
 
+Link zur Webseite: https://nina-c00.github.io/meme-game/
+
 ## Spielanleitung
 
 1. Öffne das Spiel in deinem Webbrowser.
