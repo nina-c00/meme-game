@@ -24,12 +24,13 @@ body {
 }
 .game-title {
   font-size: 2em;
+  margin-top: 50px;
   margin-bottom: 10px;
   color: #fff;
 }
 .game-instructions {
   font-size: 1em;
-  margin-top: 50px;
+  margin-top: 10px;
   margin-bottom: 20px;
   color: #fff;
   text-align: center;
